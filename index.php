@@ -203,7 +203,14 @@
 			</div>
 			<div class="filters">
 				<ul>
-					<li class="active" data-filter="*"><a href="https://midasdealings.herokuapp.com/">https://midasdealings.herokuapp.com/</a></li>
+					<li class="active" data-filter="*">
+						<a href="https://royalsafetydelivery.com">https://royalsafetydelivery.com</a></li>
+						<a href="http://smartgasalerts.com">http://smartgasalerts.com</a></li>
+						<a href="http://visana.org">http://visana.org</a></li>
+						<a href="http://bridgestonecoin.com">http://bridgestonecoin.com</a></li>
+						<a href="http://yobowallet.com">http://yobowallet.com</a></li>
+	
+					
 					<!-- <li data-filter=".packaging">Packaging</li>
 					<li data-filter=".mockup">Mockup</li>
 					<li data-filter=".typography">Typography</li>
@@ -286,7 +293,7 @@
 				<div class="col-md-12 text-center">
 					<p>
 						<a href="#" class="social-item"><span class="icon-facebook2"></span></a>
-						<a href="#" class="social-item"><span class="icon-twitter"></span></a>
+						<a href="https://twitter.com/BlvckAtarodo?t=tqcyRl_qHcWWrHkGOnURag&s=09" class="social-item"><span class="icon-twitter"></span></a>
 						<!-- <a href="#" class="social-item"><span class="icon-instagram2"></span></a> -->
 						<a href="https://www.linkedin.com/in/norbert-madojemu-930036168" class="social-item"><span class="icon-linkedin2"></span></a>
 						<!-- <a href="#" class="social-item"><span class="icon-vimeo"></span></a> -->
