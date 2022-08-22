@@ -156,9 +156,8 @@
 						<span class="icon">
 							<span class="icon-browser2"></span>
 						</span>
-						<h3 class="mb-4">Web Design</h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-						<p><a href="#" class="site-link">Learn More <i class="icon-chevron-right"></i></a></p>
+						<h3 class="mb-4">Backend Development</h3>
+						
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-4 text-center mb-5">
@@ -166,9 +165,8 @@
 						<span class="icon">
 							<span class="icon-presentation"></span>
 						</span>
-						<h3 class="mb-4">Search Engine Optimization</h3>
-						<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-						<p><a href="#" class="site-link">Learn More <i class="icon-chevron-right"></i></a></p>
+						<h3 class="mb-4">Site Template Development</h3>
+						
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-4 text-center mb-5">
@@ -176,9 +174,8 @@
 						<span class="icon">
 							<span class="icon-video2"></span>
 						</span>
-						<h3 class="mb-4">Video Editing</h3>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-						<p><a href="#" class="site-link">Learn More <i class="icon-chevron-right"></i></a></p>
+						<h3 class="mb-4">Responsive Web Design</h3>
+						
 					</div>
 				</div>
 
