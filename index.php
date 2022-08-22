@@ -76,7 +76,7 @@
 				<div class="col-md-6">
 					<h2 class="mb-5">Education</h2>
 					<div class="resume-item mb-4">
-						<span class="date"><span class="icon-calendar"></span> January 2017 - July 2021</span>
+						<span class="date"><span class="icon-calendar"></span> November 2016 - July 2021</span>
 						<h3>Bachelor of Science</h3>
 						<p>Computer Science</p>
 						<span class="school">University of Benin- Benin City.</span>
@@ -89,21 +89,25 @@
 
 					<h2 class="mb-5">Experience</h2>
 
-					<div class="resume-item mb-4">
-						<span class="date"><span class="icon-calendar"></span> Aug 2019 - February 2020</span>
-						<h3>Software developer.</h3>
-						<p>mid-level back-end developer</p>
-						<span class="school">SaruTech</span>
-					</div>
-
 					
-
 					<div class="resume-item mb-4">
 						<span class="date"><span class="icon-calendar"></span> August 2021 - Present</span>
 						<h3>Freelancer</h3>
 						<!-- <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
 						<span class="school">Shopify</span> -->
 					</div>
+					
+					<div class="resume-item mb-4">
+						<span class="date"><span class="icon-calendar"></span> Aug 2019 - February 2020</span>
+						<span class="school">SaruTech</span>
+						<h3>Software developer.</h3>
+
+						<p>• Planned website development, converting mockups into usable web presence with HTML, Javascript, AJAX and JSON coding. • Generated web hosting presence to accommodate specified needs, uploading and maintaining files on account. • Conducted test and review of website design for responsiveness, clarity and effectiveness. • Discussed site and app requirement with client to produce actionable development plans and budgets. • Collaborated with graphic design personnel to integrate images as basic site components. • Coded websites using HTML, CSS, Javascript, jQuery and PHP languages. • Conducted functional testing over course of web development lifecycle. • Reviewed code to validate structures, assess security and verify browser, device and operating system compatibility. • Employed coding practices based on commonly accepted standards to establish site layout and user interface. • Created powerful Content Management Systems to serve as interface for client.</p>
+					</div>
+
+					
+
+					
 
 
 				</div>
