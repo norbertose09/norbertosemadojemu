@@ -172,7 +172,7 @@
 				<div class="col-md-6 col-lg-4 text-center mb-5">
 					<div class="site-service-item site-animate" data-animate-effect="fadeIn">
 						<span class="icon">
-							<span class="icon-video2"></span>
+							<span class="icon-browser2"></span>
 						</span>
 						<h3 class="mb-4">Responsive Web Design</h3>
 						
