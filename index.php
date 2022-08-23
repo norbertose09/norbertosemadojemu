@@ -91,18 +91,28 @@
 
 					
 					<div class="resume-item mb-4">
-						<span class="date"><span class="icon-calendar"></span> August 2021 - Present</span>
-						<h3>Freelancer</h3>
+						<span class="date"><span class="icon-calendar"></span> October 2021 - Present</span>
+					<span class="school">MIDAS INDUSTRY SYNERGY RESOURCES</span>	
+						<h3>Backend Developer</h3>
 						<!-- <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
 						<span class="school">Shopify</span> -->
 					</div>
 					
+					
 					<div class="resume-item mb-4">
 						<span class="date"><span class="icon-calendar"></span> Aug 2019 - February 2020</span>
-						<span class="school">SaruTech</span>
-						<h3>Software developer.</h3>
+						<span class="school">SARUTECH</span>
+						<h3>Full Stack Web Developer.</h3>
 
 						<p>• Planned website development, converting mockups into usable web presence with HTML, Javascript, AJAX and JSON coding. • Generated web hosting presence to accommodate specified needs, uploading and maintaining files on account. • Conducted test and review of website design for responsiveness, clarity and effectiveness. • Discussed site and app requirement with client to produce actionable development plans and budgets. • Collaborated with graphic design personnel to integrate images as basic site components. • Coded websites using HTML, CSS, Javascript, jQuery and PHP languages. • Conducted functional testing over course of web development lifecycle. • Reviewed code to validate structures, assess security and verify browser, device and operating system compatibility. • Employed coding practices based on commonly accepted standards to establish site layout and user interface. • Created powerful Content Management Systems to serve as interface for client.</p>
+					</div>
+					
+					<div class="resume-item mb-4">
+						<span class="date"><span class="icon-calendar"></span> Aug 2019 - February 2020</span>
+						<span class="school">SARUTECH CODE ACADEMY</span>
+						<h3>Software Developer Intern</h3>
+
+						• Learnt HTML, CSS, Javascript, PHP, Laravel from basic to advance • Researching, designing, implementing, and debuggimg software programs. • Testing and evaluating new programs. • Identifying areas for modification in existing programs and subsequently developing these modifications. • Writing and implementing efficient code. • Developing quality assurance procedures. • Deploying software tools, processes, and metrics. • Maintaining and upgrading existing websites. • Training users. • Working closely with other developers, UX designers, business and systems analysts.
 					</div>
 
 					
